@@ -1,0 +1,11 @@
+{
+  "name": "shaka-save-state",
+  "version": "1.0.0",
+  "description": "save shaka state to local stoage",
+  "main": "shaka-player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
